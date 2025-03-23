@@ -18,12 +18,12 @@ Data analysis was done with SQL code.
 #Instructions
 
 1. Import project folder into Databricks workspace
-2. First create two new schemas (stg, dm) in Databricks catalog 
+2. First create two new schemas (stg, dm) in Databricks catalog. 
    Scripts are here: /focus_dm/common_utilities/database_scripts	
 3. Run solution from /focus_dm/orchestrating_data/populate_focus_dm.py notebook.
 
 #Additional Info
 
-Project following use cases defined on: https://focus.finops.org/use-cases/
+Project following use cases defined on: https://focus.finops.org/use-cases/.
 Mappings between source files and Focus standard was found here:
 https://learn.microsoft.com/en-us/cloud-computing/finops/focus/convert
